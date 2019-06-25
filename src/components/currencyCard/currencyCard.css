@@ -1,0 +1,8 @@
+.currencyCard__container {
+    border: 1px solid lightgrey;
+}
+
+.currencyCard__container__section {
+    border-right: 1px solid lightgrey;
+    flex:1;
+}

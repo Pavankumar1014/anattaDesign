@@ -1,0 +1,21 @@
+.app__container {
+    align-items: center;
+    justify-content: center;
+
+}
+
+.app__container__exchangeContainer {
+    border: 1px solid lightgrey;
+    width: 50%;
+}
+.app__container__cardsContainer{
+    max-height: 80vh;
+    overflow: auto;
+}
+.cursor-hand {
+    cursor: pointer;
+}
+
+.app__container__footer {
+    border-top: 1px solid lightgrey;
+}
